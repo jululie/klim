@@ -1,29 +1,29 @@
 {
-  "name": "ko",
-  "description": "ko",
+  "name": "lusi",
+  "description": "lusi",
   "keywords": [
     "stem"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "要部署的协议vmess或vless,请填小写的vmess或vless",
+      "description": "mess或less,请填小写",
       "value": "vmess",
       "required": true
     },
     "UUID": {
-      "description": "UUID充当配置的路径和账号密码,请妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
+      "description": "uidgenerator.net",
       "value": "",
       "required": false
     },
         "vindex": {
-      "description": "伪装网站，填写一个真实网站地址",
+      "description": "真实",
       "value": "",
       "required": false
     }
    
   },
-  "website": "https://github.com/sadbirds/ko",
-  "repository": "https://github.com/sadbirds/ko",
+  "website": "https://github.com/sadbirds/lusi",
+  "repository": "https://github.com/sadbirds/lusi",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
