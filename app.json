@@ -1,6 +1,6 @@
 {
-  "name": "lusi",
-  "description": "lusi",
+  "name": "klim",
+  "description": "klim",
   "keywords": [
     "stem"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/sadbirds/lusi",
-  "repository": "https://github.com/sadbirds/lusi",
+  "website": "https://github.com/sadbirds/klim",
+  "repository": "https://github.com/sadbirds/klim",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
