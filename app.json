@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/sadbirds/klim",
-  "repository": "https://github.com/sadbirds/klim",
+  "website": "https://github.com/Dokim-s/klim",
+  "repository": "https://github.com/Dokim-s/klim",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
